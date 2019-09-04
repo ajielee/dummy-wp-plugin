@@ -2,7 +2,7 @@
 /**
  * Plugin Name:       Dummy Wordpress Plugin
  * Description:       A dummy test for Github Hosting Wordpress Plugin
- * Version:           1.0.0
+ * Version:           1.1.1
  * Author:            Leo
  * Author URI:        https://leoli.dev
  */
