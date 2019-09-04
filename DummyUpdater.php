@@ -145,7 +145,8 @@ class DummyUpdater
 		}
 
 		// Did Wordpress check for updates?
-		if ($checked = $transient->checked) {
+		$checked = $transient->checked;
+		if (!$checked) {
 			return $transient;
 		}
 
